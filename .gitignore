@@ -4,6 +4,7 @@ pom.xml.asc
 /lib/
 /classes/
 /target/
+.idea
 /checkouts/
 .lein-deps-sum
 .lein-repl-history
@@ -13,3 +14,4 @@ pom.xml.asc
 /themes/lotus/css/blog.css
 /themes/lotus/css/blog.css.map
 .cpcache/
+cryogen.iml
